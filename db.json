@@ -1,0 +1,29 @@
+{
+    "features": [
+        {
+            "title": "Create entire Backend Code",
+            "messages": [
+                "Rest API and GraphQL",
+                "New Tech Stack: Nodejs, NestJs and Prisma",
+                "Database Scripts (PostgreSQL, MySQL and others)"
+            ],
+            "Icon": "BoltIcon"
+        },
+        {
+            "title": "Create entire FrontEnd Code",
+            "messages": [
+                "NextJS 13.4",
+                "Modern UI/UX"
+            ],
+            "Icon": "BoltSlashIcon"
+        },
+        {
+            "title": "Preview App and Other Features",
+            "messages": [
+                "Preview App Online",
+                "Automated Deploy Scripts"
+            ],
+            "Icon": "ChatBubbleLeftRightIcon"
+        }
+    ]
+}
